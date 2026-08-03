@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "my-capstone-18a19"
   },
   "targets": {},
   "etags": {}
